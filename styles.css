@@ -1,0 +1,62 @@
+#banner{
+    background-color: rgba(114, 0, 0, 0.658);
+    width: 100%;
+    height: 200px;
+    border-bottom: solid 2px #000000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contenedor{
+    width: 100%;
+}
+#formulario{
+    width: 100%;
+    background-color: rgb(158, 116, 54);
+    padding-bottom: 50px;
+
+}
+
+#footer {
+
+    height: 100%;
+    padding-bottom: 100px;
+    background-color: rgb(94, 0, 20);
+    
+}
+
+h1{
+    text-align: center;
+}
+input{
+    height: 40px;
+    width: 500px;
+    border: solid 2px black;
+    display: block;
+    margin-bottom: 5px;
+
+}
+.btm{
+    width: 507px;
+    height: 30px;
+    background-color: darkgray;
+}
+form{
+    width: 10px;
+    padding-top: 50px;
+    margin-left: 40%;
+
+}
+h3{
+    text-align: right;
+    text-align: center;
+}
+img{
+    width: 1400px;
+    margin-left: 700px;
+    
+}
+
+MARQUEE{
+    color: antiquewhite;
+}
